@@ -26,7 +26,7 @@ Quantitative research and live execution project testing whether **time-series m
 |---|---:|---:|---:|
 | Sharpe | 2.25 | 2.0 | — |
 | Avg return / game | — | ~30% | ~33% |
-| Total P&L | — | — | **+$106** |
+| Total P&L | — | — | **+$716** |
 
 Live deployment spanned WCF Game 6 and NBA Finals Games 1–3 (sized at $20–$300 per game).
 
